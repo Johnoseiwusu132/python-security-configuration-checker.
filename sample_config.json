@@ -1,0 +1,11 @@
+{
+  "debug_mode": true,
+  "cors_allowed_origins": ["*"],
+  "cookies": {
+    "secure": false,
+    "http_only": false,
+    "same_site": "None"
+  },
+  "minimum_password_length": 8,
+  "rate_limiting_enabled": false
+}
